@@ -1,0 +1,3 @@
+Opencv
+face_recognition Library
+python packages: Numpy, os, datetime

@@ -1,0 +1,6 @@
+Numpy
+Pandas
+Opencv
+Skimage
+Pytorch
+Matplotlib
